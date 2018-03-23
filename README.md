@@ -23,7 +23,7 @@ As you can see, making this repository to store the homework of ***Data Structur
 - 图
 
 ## 预定义常量和类型
-[函数结果状态代码:]
+` 函数结果状态代码: `
 ```c++
 #define OK 1
 #define TRUE 1
