@@ -18,9 +18,9 @@ As you can see, making this repository to store the homework of ***Data Structur
 > Nothing is Impossible
 
 主要学习的数据结构:    
-1.线性表
-2.树
-3.图
+- 线性表
+- 树
+- 图
 
 ## 预定义常量和类型
 [函数结果状态代码:]
