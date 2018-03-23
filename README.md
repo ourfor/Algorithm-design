@@ -3,7 +3,7 @@ Algorithm design（Data Structure）
 
 As you can see, making this repository to store the homework of ***Data Structure***
 
-<img src="http://ozkg680jm.bkt.clouddn.com/Data_Structure_picture.jpg" width="500" height="500">
+<img src="http://ozkg680jm.bkt.clouddn.com/Data_Structure_picture.jpg" width="249" height="349">
 
 ### Some Information 
 
